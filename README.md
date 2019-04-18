@@ -10,3 +10,4 @@ Ohjelma käyttää ulkoisia keskeytyksiä, siihen on toteutettu PID-säädin, PW
 Lisäksi ohjelma kommunikoi sarjaliikenneväylän kautta ulkoisen laitteen (esim tietokoneen kanssa).
 PWM-signaalin arvoa säädetään sarjaliikenneväylän kautta
 
+Työssä myös suunniteltiin arduino-rajapinta Atmega328p:lle, syövytettiin piirilevy ja kolvattiin siihen komponentit.
